@@ -4,4 +4,4 @@ This RPG game was created as Introdução a Computação (IC) final project, wit
 
 ## Decision Tree
 
-![Decision tree](https://github.com/luizgbraga/RPG/blob/image.jpg?raw=true)
+![Decision tree](https://github.com/luizgbraga/RPG/blob/tree.png?raw=true)
