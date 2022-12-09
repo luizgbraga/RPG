@@ -1,6 +1,6 @@
 # RPG - Campo Básico
 
-This RPG game was created as Introdução a Computação (IC) final project, with the purpose of being a simple decision game built on knots defined as structs. 
+This repository contains a thematic RPG game, in wich the player forgets all its items in a military camping, built based on knots defined as structs for simple decisions.
 
 ## Decision Tree
 
